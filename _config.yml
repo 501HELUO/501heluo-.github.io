@@ -11,7 +11,7 @@ permalink: /blog/:year/:month/:day/:title.html
 encoding: utf-8
 # Sections on the "people" page.
 roles:
-  - key: faculty
+  - key: teacher
     name: 教师 Faculty
   - key: grad
     name: 研究生 Graduate Students
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: homepage
+  - title: Heluo's Homepage
     link: /
-  - title: Research
+  - title: Experience
     link: /research.html
-  - title: Publications
+  - title: Personality
     link: /publications.html
